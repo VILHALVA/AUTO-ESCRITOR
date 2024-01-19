@@ -2,7 +2,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
 
-<img src="https://cdn-icons-png.flaticon.com/512/6009/6009230.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 O aplicativo "AUTO ESCRITOR" é uma ferramenta desenvolvida em Python com uma interface gráfica Tkinter, projetada para automatizar a digitação de texto em um ambiente de desktop. Aqui está uma descrição detalhada das principais funcionalidades do aplicativo:
