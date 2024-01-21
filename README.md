@@ -1,8 +1,7 @@
 # AUTO ESCRITOR
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
+🎈AUTOMATIZE O PROCESSO DE DIGITAÇÃO.
 
-<img src="FOTO.png" align="center" width="300"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O aplicativo "AUTO ESCRITOR" é uma ferramenta desenvolvida em Python com uma interface gráfica Tkinter, projetada para automatizar a digitação de texto em um ambiente de desktop. Aqui está uma descrição detalhada das principais funcionalidades do aplicativo:
@@ -22,4 +21,32 @@ O aplicativo "AUTO ESCRITOR" é uma ferramenta desenvolvida em Python com uma in
 5. **Botão Limpar:**
    - O botão "Limpar" permite aos usuários apagar o conteúdo do campo de texto, facilitando a entrada de novo texto.
 
-O aplicativo é projetado para ser simples e intuitivo, proporcionando uma solução eficiente para a automação de tarefas de digitação. A interface gráfica amigável torna a interação fácil para usuários de todos os níveis de experiência. A capacidade de ajustar a velocidade de digitação e o atraso inicial oferece flexibilidade, permitindo aos usuários personalizar a automação conforme necessário.
+## COMO USAR?
+**Passo 1:** Clone o repositório para o seu sistema local.
+
+```bash
+git clone https://github.com/VILHALVA/AUTO-ESCRITOR.git
+```
+
+**Passo 2:** Navegue até o diretório do projeto.
+
+```bash
+cd AUTO-ESCRITOR
+```
+
+**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip AUTO-ESCRITOR.zip
+```
+
+**Passo 4:** Execute o executável do projeto.
+
+```bash
+./AUTO-ESCRITOR
+```
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+
+
