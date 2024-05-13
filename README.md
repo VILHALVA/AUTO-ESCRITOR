@@ -39,7 +39,7 @@ O aplicativo "AUTO ESCRITOR" é uma ferramenta desenvolvida em Python com uma in
 - Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
 
 ### 2. GERANDO:
-   **1. Instalação do PyInstaller:**
+   **1. Instalação do [PyInstaller:](https://pyinstaller.org/en/stable/)**
    - Certifique-se de ter o PyInstaller instalado. Se não tiver, instale usando o comando abaixo:
    ```bash
    pip install pyinstaller
