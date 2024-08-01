@@ -23,7 +23,10 @@ O aplicativo "AUTO ESCRITOR" é uma ferramenta desenvolvida em Python com uma in
    - O botão "Limpar" permite aos usuários apagar o conteúdo do campo de texto, facilitando a entrada de novo texto.
 
 ## EXECUTANDO O PROJETO:
-1. Execute o arquivo Python.
+1. Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 2. Isso abrirá a interface do aplicativo de digitação automática.
 3. Digite o texto que deseja que seja digitado automaticamente na área de texto fornecida.
 4. Use o controle deslizante "Velocidade" para ajustar a velocidade de digitação. Quanto menor o valor, mais rápida será a digitação.
