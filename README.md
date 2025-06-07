@@ -45,13 +45,15 @@ python CODIGO.py
    * Se necessário, você pode recompilar o executável a qualquer momento.
 
 ### 2. GERANDO:
+> **IMPORTANTE:** Antes de gerar o novo `executável`, certifique-se de excluir o arquivo `./APP/AUTO ESCRITOR.exe`.
+
    **1. Instalação do [PyInstaller:](https://pyinstaller.org/en/stable/)**
    - Certifique-se de ter o PyInstaller instalado. Se não tiver, instale usando o comando abaixo:
    ```bash
    pip install pyinstaller
    ```
 
-   **2. Gerando o Executável**
+   **2. Gerando o Executável:**
    - No diretório `./CODIGO`, execute o comando abaixo para gerar o executável a partir do arquivo `.spec`:
 
    ```bash
